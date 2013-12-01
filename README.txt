@@ -1,7 +1,7 @@
 README.txt
 ==========
 
-This is a simple Drupal 6 theme created by Michael J. Ross (http://www.ross.ws/) for the DrupalCamp Las Vegas 2012, based on the "basic" starter theme.
+This is a Drupal 6 theme created by Michael J. Ross (http://www.ross.ws/) for the DrupalCamp Las Vegas 2012. It is based on the starter theme "basic".
 
 The header image was created by Wendy Minatogawa, using artwork created by and licensed from Albert Campbell.
 
